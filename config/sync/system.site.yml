@@ -1,0 +1,14 @@
+uuid: 7b7eb6b5-3f06-46dc-ab3d-3c25d4c09dc3
+name: laura-ecommerce
+mail: laura.anne.creations@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI

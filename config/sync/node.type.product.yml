@@ -1,0 +1,18 @@
+uuid: 00fc430f-d0bc-44d5-b188-4c31621aeb14
+langcode: en
+status: true
+dependencies:
+  module:
+    - menu_ui
+third_party_settings:
+  menu_ui:
+    available_menus:
+      - main
+    parent: 'main:'
+name: Product
+type: product
+description: 'a piece of art, trinket or other product'
+help: ''
+new_revision: true
+preview_mode: 1
+display_submitted: true
