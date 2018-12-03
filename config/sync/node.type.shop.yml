@@ -1,0 +1,18 @@
+uuid: 12f9f2a0-3ce9-4363-bdcb-5449cb53e020
+langcode: en
+status: true
+dependencies:
+  module:
+    - menu_ui
+third_party_settings:
+  menu_ui:
+    available_menus:
+      - main
+    parent: 'main:'
+name: Shop
+type: shop
+description: 'Create a shop to group your products together'
+help: ''
+new_revision: true
+preview_mode: 0
+display_submitted: true

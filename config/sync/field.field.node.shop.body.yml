@@ -1,0 +1,22 @@
+uuid: 07df9048-7fe5-4b47-baad-a0eb70332ea8
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.body
+    - node.type.shop
+  module:
+    - text
+id: node.shop.body
+field_name: body
+entity_type: node
+bundle: shop
+label: Description
+description: 'Describe which products your clients will find in this shop.'
+required: true
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings:
+  display_summary: true
+field_type: text_with_summary
